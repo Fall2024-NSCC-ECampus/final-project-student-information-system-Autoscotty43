@@ -1,0 +1,6 @@
+# ninja log v6
+10	290	7539964092707488	CMakeFiles/JaredScott_StudentInformationSystem.dir/src/Student.cpp.obj	8aa5d6095d7b606d
+26	372	7539964092871199	CMakeFiles/JaredScott_StudentInformationSystem.dir/src/GradingScheme.cpp.obj	c4d846ca68563f8f
+1	388	7539964092626589	CMakeFiles/JaredScott_StudentInformationSystem.dir/src/main.cpp.obj	516b2124e99d6a96
+18	574	7539964092789244	CMakeFiles/JaredScott_StudentInformationSystem.dir/src/StudentUtils.cpp.obj	54b2eab8d1f738f9
+574	680	7539964098346954	JaredScott_StudentInformationSystem.exe	d831f6d47572b6ea
